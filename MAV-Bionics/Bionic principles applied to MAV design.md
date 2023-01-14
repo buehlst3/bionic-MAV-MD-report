@@ -65,19 +65,17 @@ To have a better understanding of what the MAV will need to be able to do, its f
 
 ### Life's principle integration
 
-When looking at how to integrate/use natural engineering solution, we identified the following Life's principle that we wanted to integrate into the project:
+When looking at how to integrate/use natural engineering solution, we identified the following Life's principles that we wanted to integrate into the project:
 
 1. adapt to changing conditions
+   change between air and water
+   Temeprature change
+   altitude change
+   navigation for over and under water
 
-2. Change between air and water
-
-3. Temperature change
-
-4. Altitude change
-
-5. be resource efficient
-
-6. Navigation for over and underwater
+2. be resource efficient
+   use multi-functional design
+   fit form to function
 
 <img src="C:\Users\Loup\Documents\GitHub\bionic-MAV-MD-report\MAV-Bionics\env-factors.png" alt="env-factors" style="zoom:33%;" />
 
